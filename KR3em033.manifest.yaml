@@ -1,0 +1,966 @@
+canonical_identifier: bkk:krp/KR3em033/v1
+canonical_location: https://kanripo.org/bkk/KR3em033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 喉科大成
+  identifiers:
+    krp: KR3em033
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em033.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em033_000.yaml, hash: 'sha256:406aa0a6fc34a462de7ad322db0549b9cbe03d23eaf93aba70f0cd5375bb7cdb'}
+  - {seq: 1, filename: KR3em033_001.yaml, hash: 'sha256:9c0ccf23c974ec0aac10d482b0b8b3490c9fe478537896749fc9589214800f9c'}
+  - {seq: 2, filename: KR3em033_002.yaml, hash: 'sha256:6e36aa51e14846980bb71dc28aeb4a5d837f535c3662f60579ba2ae558f33c6a'}
+  - {seq: 3, filename: KR3em033_003.yaml, hash: 'sha256:2a45c314eedb5cb0999f348981214628874adeeedf2e0d0946a854ccdf40da26'}
+  - {seq: 4, filename: KR3em033_004.yaml, hash: 'sha256:53923ca9d64aedfe2c76a1cf52fd73779c13f82dc59590915b960ed7a385af9a'}
+  - {seq: 0, filename: KR3em033_000.yaml, hash: 'sha256:406aa0a6fc34a462de7ad322db0549b9cbe03d23eaf93aba70f0cd5375bb7cdb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em033_000.markers.yaml, hash: 'sha256:63f0633d0f64b84ea43dc24ce1bfbbaacd8569343421ae6a02938438b218cd0f'}
+  - {seq: 1, role: markers, filename: assets/KR3em033_001.markers.yaml, hash: 'sha256:f499b3569b729944f5cc3c0b235f6ade3fc98acc4b0a3a019502c42d5990ba8e'}
+  - {seq: 2, role: markers, filename: assets/KR3em033_002.markers.yaml, hash: 'sha256:85dae84d57f1cdd78b9ee1e52a07a8d3e6b8afe1e4bd0e6af10bc24691e59788'}
+  - {seq: 3, role: markers, filename: assets/KR3em033_003.markers.yaml, hash: 'sha256:c837be0368b8232289d1d125a1bf4b1eca89d117f1020d5e75653e1bf1af5c5a'}
+  - {seq: 4, role: markers, filename: assets/KR3em033_004.markers.yaml, hash: 'sha256:5e10b4ff87e5cb1841743e6850f4fcc82e821d1246c3f8a0ecc74e0437f63a00'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em033_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 266
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em033_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 370
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 1343
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 1343
+  label: 類經咽喉經絡藏象
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d4
+    span:
+    - body
+    - 161
+    - 172
+  label: 嗌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d5
+    span:
+    - body
+    - 172
+    - 243
+  label: 會厭
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d6
+    span:
+    - body
+    - 243
+    - 324
+  label: 咽與喉各異
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d7
+    span:
+    - body
+    - 324
+    - 350
+  label: 咽喉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d8
+    span:
+    - body
+    - 350
+    - 394
+  label: 會厭
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d9
+    span:
+    - body
+    - 394
+    - 415
+  label: 懸雍
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d10
+    span:
+    - body
+    - 415
+    - 457
+  label: 頏顙
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d11
+    span:
+    - body
+    - 457
+    - 603
+  label: 橫骨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d12
+    span:
+    - body
+    - 603
+    - 703
+  label: 咽喉會厭與舌其用不同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d13
+    span:
+    - body
+    - 703
+    - 763
+  label: 咽喉度數
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d14
+    span:
+    - body
+    - 763
+    - 1249
+  label: 經義
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d15
+    span:
+    - body
+    - 1249
+    - 1286
+  label: 脈法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em033_jc_001-d4.d2d16
+    span:
+    - body
+    - 1286
+    - 1343
+  label: 針灸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3300
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 2547
+  label: 喉痹論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d12
+    span:
+    - body
+    - 982
+    - 1200
+  label: 論治
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d13
+    span:
+    - body
+    - 1200
+    - 1401
+  label: 喉痹惡寒極
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d14
+    span:
+    - body
+    - 1401
+    - 1654
+  label: 喉痹不惡寒者
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d15
+    span:
+    - body
+    - 1654
+    - 1747
+  label: 此論天行喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d16
+    span:
+    - body
+    - 1747
+    - 2000
+  label: 此論瘟毒喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d17
+    span:
+    - body
+    - 2000
+    - 2119
+  label: 咽嗌痛嚥唾與食則痛者是也
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d18
+    span:
+    - body
+    - 2119
+    - 2144
+  label: 咽瘡
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d19
+    span:
+    - body
+    - 2144
+    - 2276
+  label: 陰虛喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d20
+    span:
+    - body
+    - 2276
+    - 2406
+  label: 格陽喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5.d2d21
+    span:
+    - body
+    - 2406
+    - 2547
+  label: 陽虛喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5d3
+    span:
+    - body
+    - 2547
+    - 2662
+  label: 喉癬證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5d4
+    span:
+    - body
+    - 2662
+    - 2722
+  label: 實熱咽痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5d5
+    span:
+    - body
+    - 2722
+    - 2740
+  label: 浮熱咽病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em033_jc_002-d5d6
+    span:
+    - body
+    - 2740
+    - 3300
+  label: 壅熱咽痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 3832
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 3832
+  label: 古今治法論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d44
+    span:
+    - body
+    - 1786
+    - 2000
+  label: 單乳蛾雙乳蛾
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d45
+    span:
+    - body
+    - 2000
+    - 2299
+  label: 急喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d46
+    span:
+    - body
+    - 2299
+    - 2452
+  label: 纏喉風
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d47
+    span:
+    - body
+    - 2452
+    - 2580
+  label: 懸雍垂
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d48
+    span:
+    - body
+    - 2580
+    - 2751
+  label: 梅核氣
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d49
+    span:
+    - body
+    - 2751
+    - 2799
+  label: 屍咽
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d50
+    span:
+    - body
+    - 2799
+    - 2881
+  label: 谷賊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d51
+    span:
+    - body
+    - 2881
+    - 2943
+  label: 咽喉瘡
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d52
+    span:
+    - body
+    - 2943
+    - 2985
+  label: 楊梅結毒
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d53
+    span:
+    - body
+    - 2985
+    - 3010
+  label: 咽喉急閉宜針
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d54
+    span:
+    - body
+    - 3010
+    - 3149
+  label: 喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d55
+    span:
+    - body
+    - 3149
+    - 3230
+  label: 咽喉急閉宜吐
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d56
+    span:
+    - body
+    - 3230
+    - 3418
+  label: 咽喉閉通治
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d57
+    span:
+    - body
+    - 3418
+    - 3541
+  label: 咽喉不治證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d58
+    span:
+    - body
+    - 3541
+    - 3733
+  label: 陰虛喉疳
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em033_jc_003-d6.d2d59
+    span:
+    - body
+    - 3733
+    - 3832
+  label: 咽喉怪證
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 4493
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 4493
+  label: 古今方藥主治分類
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d2
+    span:
+    - body
+    - 10
+    - 175
+  label: 風熱腫痹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d3
+    span:
+    - body
+    - 175
+    - 389
+  label: 吹藥
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d4
+    span:
+    - body
+    - 389
+    - 1098
+  label: 痰涎結痹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d5
+    span:
+    - body
+    - 1098
+    - 1661
+  label: 實熱腫痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d6
+    span:
+    - body
+    - 1661
+    - 1785
+  label: 虛熱腫痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d7
+    span:
+    - body
+    - 1785
+    - 1885
+  label: 咽藥
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d8
+    span:
+    - body
+    - 1885
+    - 2150
+  label: 陰虛喉痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d9
+    span:
+    - body
+    - 2150
+    - 2206
+  label: 陽虛喉痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d10
+    span:
+    - body
+    - 2206
+    - 2235
+  label: 陰寒咽痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d11
+    span:
+    - body
+    - 2235
+    - 2288
+  label: 客寒咽痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d12
+    span:
+    - body
+    - 2288
+    - 2566
+  label: 瘟毒喉痹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d13
+    span:
+    - body
+    - 2566
+    - 2658
+  label: 葵絲症
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d14
+    span:
+    - body
+    - 2658
+    - 2704
+  label: 口起泡
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d15
+    span:
+    - body
+    - 2704
+    - 2744
+  label: 喉生紅豆
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d16
+    span:
+    - body
+    - 2744
+    - 2803
+  label: 針後不止血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d17
+    span:
+    - body
+    - 2803
+    - 2873
+  label: 骨鯁
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d18
+    span:
+    - body
+    - 2873
+    - 2928
+  label: 治菸袋傷喉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d19
+    span:
+    - body
+    - 2928
+    - 2979
+  label: 治火毒
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d20
+    span:
+    - body
+    - 2979
+    - 3016
+  label: 牙疳
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d21
+    span:
+    - body
+    - 3016
+    - 3095
+  label: 喉爛吹藥方見陰虛火燥下
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d22
+    span:
+    - body
+    - 3095
+    - 3182
+  label: 治天白蟻瘡
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d23
+    span:
+    - body
+    - 3182
+    - 3213
+  label: 竹刺入咽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d24
+    span:
+    - body
+    - 3213
+    - 3259
+  label: 食醋嗆喉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d25
+    span:
+    - body
+    - 3259
+    - 3317
+  label: 治咽喉十八種急症如神
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d26
+    span:
+    - body
+    - 3317
+    - 3340
+  label: 孕婦用麝法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d27
+    span:
+    - body
+    - 3340
+    - 3382
+  label: 陰虛火躁
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d28
+    span:
+    - body
+    - 3382
+    - 3410
+  label: 爛喉嚨吹藥方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d29
+    span:
+    - body
+    - 3410
+    - 3468
+  label: 寒珠雙珠塞海
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d30
+    span:
+    - body
+    - 3468
+    - 3546
+  label: 內關閉緊飲食難下
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d31
+    span:
+    - body
+    - 3546
+    - 3597
+  label: 牙關緊閉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d32
+    span:
+    - body
+    - 3597
+    - 3804
+  label: 溜心蛾
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d33
+    span:
+    - body
+    - 3804
+    - 3836
+  label: 制鸕鷀膽法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d34
+    span:
+    - body
+    - 3836
+    - 3915
+  label: 制人中白法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d35
+    span:
+    - body
+    - 3915
+    - 3961
+  label: 加制人中白法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d36
+    span:
+    - body
+    - 3961
+    - 4016
+  label: 制牙硝法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d37
+    span:
+    - body
+    - 4016
+    - 4179
+  label: 制棗藥法
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d38
+    span:
+    - body
+    - 4179
+    - 4213
+  label: 制青魚膽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d39
+    span:
+    - body
+    - 4213
+    - 4308
+  label: 八寶丹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em033_jc_004-d7.d2d40
+    span:
+    - body
+    - 4308
+    - 4493
+  label: 附制山烏龜法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em033_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 127
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:67e0c0a57a32ec287c1980652c73ab0ba461c61db29d4d928fa50a91b4909adb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
